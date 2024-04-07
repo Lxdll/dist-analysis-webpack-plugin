@@ -1,0 +1,24 @@
+{
+  "name": "dist-analysis-webpack-plugin",
+  "version": "1.0.0",
+  "description": "webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lxdll/dist-analysis-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lxdll/dist-analysis-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/Lxdll/dist-analysis-webpack-plugin#readme",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
